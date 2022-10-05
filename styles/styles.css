@@ -230,6 +230,7 @@ body {
   display: none;
   margin-bottom: 10px;
 }
+
 .discription-text__down_hide {
   display: none;
 }
@@ -350,7 +351,7 @@ body {
   }
 
   .discription-text__down_hide {
-    display: hidden;
+    display: inline;
   }
 
   .discription-text__open {
