@@ -342,7 +342,7 @@ body {
 
   .list {
     flex-wrap: wrap;
-    overflow: visiblehi;
+    overflow: hidden;
   }
 
   .discription-text__down {
