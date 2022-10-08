@@ -151,6 +151,10 @@ body {
   transform: scale(1.03);
 }
 
+.icon {
+  width: 100%;
+}
+
 .main {
   background: #f8f8f8;
 }
